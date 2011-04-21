@@ -1,3 +1,5 @@
+*Fixed the libpng link because it returned a 550 response*
+
 h1. Magick Installer!
 
 Magick Installer exists for two reasons:
